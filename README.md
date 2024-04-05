@@ -22,9 +22,8 @@ User should be able to reach the corresponding title by clicking on the navigati
 
 
 
-### Links
- Solution URL: 
- LIve Site URL: 
+### Links 
+ LIve Site URL: https://kk6625.github.io/Assignments/
 
 ## Progress
 
